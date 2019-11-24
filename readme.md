@@ -1,5 +1,6 @@
 # ニューラルネットワークによる手書き数字認識
 - Keras の mnist データを使ってみる
+- https://github.com/rinsaka/keras-number-tegaki
 
 ### 01-read.py
 - Kerasでサンプルデータを読み取るだけ
